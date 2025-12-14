@@ -1,2 +1,1 @@
-# Merahostingbot
-Telegram file hosting bot 
+# hosting
